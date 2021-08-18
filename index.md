@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Samania - GitHub"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This site will be used as a practical site for my learning on Github :) 
