@@ -1,6 +1,6 @@
 ---------------------
-Title: "My first post"
-Date: 2021-08-18
+Title:"My first post"
+Date:2021-08-18
 ----------------------
 
 #Introduction
