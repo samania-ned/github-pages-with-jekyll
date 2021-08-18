@@ -1,6 +1,6 @@
 ---------------------
-layout: post
 Title: My first post
+Date: 2021-08-18
 ----------------------
 
 #Introduction
