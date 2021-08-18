@@ -1,5 +1,5 @@
 ---------------------
-Title: My first post
+Title: "My first post"
 Date: 2021-08-18
 ----------------------
 
@@ -8,4 +8,4 @@ Date: 2021-08-18
 Hi
 I am learning to use Github and this is my first post
 
-<3 Samania <3 
+*Samania*
